@@ -13,7 +13,7 @@
 //[]
 
 
-const name = {};
+const name =;
 if(name){
     console.log("condition is true");
 }else{
